@@ -18,6 +18,7 @@ public class FileCopier {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("This program is going to copy a file!");
+        System.out.println("This is the second try");
     }
     
 }
